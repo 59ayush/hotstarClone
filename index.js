@@ -6,27 +6,27 @@ var movies = [
   {
     name: "raya and the last dragon",
     des: "1 hr 47 min • 2021 • Animation • U/A 7+\nRaya, a fallen princess must track down the legendary last dragon to stop the evil forces that have returned and threaten her world...",
-    image: "images/slider 4.png"
+    image: "images/slider 4.PNG"
   },
   {
     name: "loki",
     des: "1 Season • 6 Episodes • Superhero • U/A • 13+ • Marvel\nThe mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of 'Avengers: Endgame'...",
-    image: "images/slider 1.png"
+    image: "images/slider 1.PNG"
   },
   {
     name: "luca",
     des: "1 hr 35 min • 2021 • Animation • U/A 7+\nThe movie is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides...",
-    image: "images/slider 5.png"
+    image: "images/slider 5.PNG"
   },
   {
     name: "falcon and the winter soldier",
     des: "1 Season • 6 Episodes • Superhero • U/A • 13+ • Marvel\nFollowing the events of 'Avengers: Endgame', Sam Wilson and Bucky Barnes team up in a global adventure that tests their abilities and their patience...",
-    image: "images/slider 2.png"
+    image: "images/slider 2.PNG"
   },
   {
     name: "wanda vision",
     des: "1 Season • 6 Episodes • Superhero • U/A 13+ • Marvel\nWanda Maximoff and Vision - two super-powered beings living idealised suburban lives begin to suspect that everything is not as it seems...",
-    image: "images/slider 3.png"
+    image: "images/slider 3.PNG"
   }
 ];
 
